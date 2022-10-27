@@ -11,12 +11,19 @@
   },
   "author": "",
   "license": "ISC",
+  "browserslist": [
+    "> 1%",
+    "not dead"
+  ],
   "bugs": {
     "url": "https://github.com/maryeloian7/food/issues"
   },
   "homepage": "https://github.com/maryeloian7/food#readme",
   "description": "",
   "devDependencies": {
+    "@babel/cli": "^7.19.3",
+    "@babel/core": "^7.19.6",
+    "@babel/preset-env": "^7.19.4",
     "json-server": "^0.17.0"
   }
 }
